@@ -44,17 +44,21 @@ Tras el análisis, se recomienda la **venta de la Tienda 4**.
 
 ## 📊 Visualizaciones Destacadas
 
-### Distribución Geográfica de Ventas
-Aquí se observa la concentración de ventas por ubicación, permitiendo identificar el alcance de cada tienda.
-
-![Mapa de Ventas](img/mapa_geografico.png)
-
 ### Comparativa de Ingresos por Tienda
 En este gráfico se hace evidente la brecha de ingresos de la Tienda 4 respecto a las demás.
 
-![Gráfico de Barras Ingresos](img/grafico_ingresos.png)
+<img src="img/barplot.png" width="250">
+
+### Relación Costo de Envío vs Satisfacción
+<img src="img/scatterplot.png" width="250">
 
 ### Distribución de Ventas por Categoría - Tienda 4
 <img src="img/pie.png" width="250">
+
+### Cantidad de Ventas por Categoría
+<img src="img/countplot.png" width="250">
+
+### Distribución Geográfica de Ventas por Tienda
+<img src="img/scatterplot2.png" width="250">
 ---
 Proyecto desarrollado como parte del Challenge de Alura Store.
