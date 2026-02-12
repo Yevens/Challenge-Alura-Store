@@ -39,8 +39,19 @@ Tras el análisis, se recomienda la **venta de la Tienda 4**.
 
 ## 📂 Estructura del Repositorio
 
-* `ejemplo 1.ipynb`: Notebook principal con todo el código de carga, limpieza, análisis y visualizaciones.
-* `datasets/`: (Opcional) Carpeta que contiene los archivos CSV de las 4 tiendas analizadas.
+* `Challenge-Alura-Store.ipynb`: Notebook principal con todo el código de carga, limpieza, análisis y visualizaciones.
+* `img/`: Gráficos crerados en el análisis.
 
+## 📊 Visualizaciones Destacadas
+
+### Distribución Geográfica de Ventas
+Aquí se observa la concentración de ventas por ubicación, permitiendo identificar el alcance de cada tienda.
+
+![Mapa de Ventas](img/mapa_geografico.png)
+
+### Comparativa de Ingresos por Tienda
+En este gráfico se hace evidente la brecha de ingresos de la Tienda 4 respecto a las demás.
+
+![Gráfico de Barras Ingresos](img/grafico_ingresos.png)
 ---
 Proyecto desarrollado como parte del Challenge de Alura Store.
