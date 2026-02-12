@@ -53,5 +53,9 @@ Aquí se observa la concentración de ventas por ubicación, permitiendo identif
 En este gráfico se hace evidente la brecha de ingresos de la Tienda 4 respecto a las demás.
 
 ![Gráfico de Barras Ingresos](img/grafico_ingresos.png)
+
+### Distribución de Ventas por Categoría - Tienda 4
+
+(img/pie.png)
 ---
 Proyecto desarrollado como parte del Challenge de Alura Store.
