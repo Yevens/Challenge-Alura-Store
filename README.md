@@ -55,8 +55,6 @@ En este gráfico se hace evidente la brecha de ingresos de la Tienda 4 respecto 
 ![Gráfico de Barras Ingresos](img/grafico_ingresos.png)
 
 ### Distribución de Ventas por Categoría - Tienda 4
-
-![Gráfico de Ventas](img/pie.png)
-<img src="img/pie.png" width="500">
+<img src="img/pie.png" width="250">
 ---
 Proyecto desarrollado como parte del Challenge de Alura Store.
